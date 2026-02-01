@@ -17,7 +17,7 @@ CORS(app)
 
 # Supabase Credentials
 SUPABASE_URL = "https://iqcxemcvdcirbhmkgzhc.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlxY3hlbWN2ZGNpcmJobWtnemhjIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTkzNDQ2MywiZXhwIjoyMDg1NTEwNDYzfQ.DQLJqtVzcyXTXBwsWDTNPajoqodFaGckBuwGVbRVMDo"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInZiI6ImlxY3hlbWN2ZGNpcmJobWtnemhjIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTkzNDQ2MywiZXhwIjoyMDg1NTEwNDYzfQ.DQLJqtVzcyXTXBwsWDTNPajoqodFaGckBuwGVbRVMDo"
 BUCKET_NAME = "profiles" # This must match exactly what is in your Supabase dashboard
 
 def get_supabase_client():
