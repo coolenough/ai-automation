@@ -1,0 +1,6 @@
+
+{
+  "name": "n8n Data Ingest Portal",
+  "description": "A streamlined bridge for uploading candidate profiles directly into Google Sheets via n8n automation pipelines.",
+  "requestFramePermissions": []
+}
